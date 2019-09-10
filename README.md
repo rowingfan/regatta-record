@@ -87,6 +87,7 @@ year, tournament, raceNo, event, group, startDateTime, rank, crew, lap500, lap10
 
 | 日付 | 種類 | 内容 |
 |:---|:---|:---|
+|2019-09-11 |追加 |jara2019.jsonとjara2019.csvに全日本大学選手権の結果を追加 |
 |2019-07-07 |修正 |jara2012.jsonデータが途切れていたので残りのデータを追加 |
 
 ## License
