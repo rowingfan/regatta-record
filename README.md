@@ -87,6 +87,7 @@ year, tournament, raceNo, event, group, startDateTime, rank, crew, lap500, lap10
 
 | 日付 | 種類 | 内容 |
 |:---|:---|:---|
+|2022-05-16 |追加 |jara2022.jsonとjara2022.csvの全日本選手権を追加 |
 |2022-03-20 |修正 |jara2020.jsonとjara2020.csvの全日本大学選手権、女子なしクォドルプルを女子舵手なしクォドルプルに修正 |
 |2021-11-03 |追加 |jara2021.jsonとjara2021.csvを追加 |
 |2020-10-27 |追加 |jara2020.jsonとjara2020.csvに全日本大学選手権の結果を追加 |
